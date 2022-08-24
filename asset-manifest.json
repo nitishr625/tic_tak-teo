@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ExpenseTracker/static/css/main.a6aa2eaa.css",
-    "main.js": "/ExpenseTracker/static/js/main.3e9b74bd.js",
-    "index.html": "/ExpenseTracker/index.html",
-    "main.a6aa2eaa.css.map": "/ExpenseTracker/static/css/main.a6aa2eaa.css.map",
-    "main.3e9b74bd.js.map": "/ExpenseTracker/static/js/main.3e9b74bd.js.map"
+    "main.css": "/nitishr625/tic_tak-teo.git/static/css/main.a6aa2eaa.css",
+    "main.js": "/nitishr625/tic_tak-teo.git/static/js/main.3e9b74bd.js",
+    "index.html": "/nitishr625/tic_tak-teo.git/index.html",
+    "main.a6aa2eaa.css.map": "/nitishr625/tic_tak-teo.git/static/css/main.a6aa2eaa.css.map",
+    "main.3e9b74bd.js.map": "/nitishr625/tic_tak-teo.git/static/js/main.3e9b74bd.js.map"
   },
   "entrypoints": [
     "static/css/main.a6aa2eaa.css",
