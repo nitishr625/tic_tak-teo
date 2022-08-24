@@ -1,0 +1,91 @@
+.container {
+  width: 100%;
+  height: 100vh;
+  padding: 100px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.left-wrapper {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.left-text {
+  font-size: 60px;
+  font-weight: bolder;
+  color: #4d6985;
+  margin-right: 80px;
+}
+
+.button {
+  margin-top: 100px;
+  width: 240px;
+  height: 60px;
+  border-radius: 40px;
+  font-size: 18px;
+  color: #607480;
+  background-color: white;
+  border: 2px solid #7689a0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.players {
+  display: flex;
+  flex-direction: row;
+  margin-right: 40px;
+}
+
+.player {
+  width: 50%;
+  font-size: 18px;
+  font-weight: bold;
+  padding-bottom: 10px;
+  color: #9a9a9a;
+  border-bottom: 4px solid #efefef;
+  margin-bottom: 20px;
+}
+
+.player-X {
+  color: #41bed7;
+  border-bottom: 4px solid #41bed7;
+}
+
+.player-O {
+  color: #d6bafa;
+  border-bottom: 4px solid #d6bafa;
+}
+
+.game-wrapper {
+  width: 300px;
+  height: 300px;
+  margin-right: 40px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.winner-wrapper {
+  margin-right: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.winner-text {
+  font-size: 50px;
+  font-weight: bolder;
+  color: #4d6985;
+}
+
+img {
+  margin-left: 12px;
+}
