@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/nitishr625/tic_tak-teo.git/static/css/main.a6aa2eaa.css",
-    "main.js": "/nitishr625/tic_tak-teo.git/static/js/main.3e9b74bd.js",
-    "index.html": "/nitishr625/tic_tak-teo.git/index.html",
-    "main.a6aa2eaa.css.map": "/nitishr625/tic_tak-teo.git/static/css/main.a6aa2eaa.css.map",
-    "main.3e9b74bd.js.map": "/nitishr625/tic_tak-teo.git/static/js/main.3e9b74bd.js.map"
+    "main.css": "/tic_tak-teo/static/css/main.a6aa2eaa.css",
+    "main.js": "/tic_tak-teo/static/js/main.3e9b74bd.js",
+    "index.html": "/tic_tak-teo/index.html",
+    "main.a6aa2eaa.css.map": "/tic_tak-teo/static/css/main.a6aa2eaa.css.map",
+    "main.3e9b74bd.js.map": "/tic_tak-teo/static/js/main.3e9b74bd.js.map"
   },
   "entrypoints": [
     "static/css/main.a6aa2eaa.css",
